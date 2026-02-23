@@ -100,5 +100,5 @@ By breaking down data silos and unifying RapidLogi’s operations into a single 
 ---
 
 ## Appendix: Data Source & Methodology
-* **Raw Data Source:** The foundational dataset used to build this project was sourced from the Logistics Operations Database on Kaggle.
+* **Raw Data Source:** The foundational dataset used to build this project was sourced from the [Logistics Operations Database](https://www.kaggle.com/datasets/yogape/logistics-operations-database) on Kaggle.
 * **Project Scope:** While the raw transactional logs and dimension contexts were provided by the dataset, the data architecture, ETL pipeline, DAX measure engineering, UI/UX design, and the "RapidLogi" business narrative were custom-developed to simulate an enterprise-grade Business Intelligence deployment.
